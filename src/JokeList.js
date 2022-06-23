@@ -5,7 +5,7 @@ import './JokeList.css'
 
 class JokeList extends Component {
     static defaultProps = {
-        numJokes: 2
+        numJokes: 4
     }
     constructor(props) {
         super(props);
